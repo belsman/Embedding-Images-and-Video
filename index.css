@@ -8,7 +8,7 @@ body {
 main {
       width: 60%;
       dborder: 1px solid red;
-      padding: 20px;
+      padding: 22px;
   }
 
 aside {
@@ -42,4 +42,18 @@ nav {
   nav a.brand img {
     width: 105px;
     height: 40px;
+}
+
+/* Style up-next video */
+
+li.next-video {
+    border-bottom: 1px solid #eee;
+    display: flex;
+    padding: 0.5em 0;
+}
+
+span.next-video-author, span.dates-and-views {
+    font-size: 75%;
+    color: #333;
+    
 }
