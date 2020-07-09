@@ -15,3 +15,15 @@ main {
   main, aside {
       float: left;
   }
+
+  /* Styling Icons*/
+  nav li img {
+      width: 24px;
+      display: inline-block;
+  }
+
+  nav li a.brand img {
+    width: 105px;
+    border: 1px solid blue;
+    height: 40px;
+}
