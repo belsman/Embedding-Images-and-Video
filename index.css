@@ -1,1 +1,17 @@
-  
+* {
+    box-sizing: border-box;
+}
+
+main {
+      width: 60%;
+      border: 1px solid red;
+  }
+
+  aside {
+      width: 40%;
+      border: 1px solid green;
+  }
+
+  main, aside {
+      float: left;
+  }
