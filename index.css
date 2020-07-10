@@ -14,6 +14,9 @@ h1, h2, h3, h4, h5, p {
     margin: 0;
 }
 
+/* === nav bar style === */
+
+
 nav {
     display: flex;
     justify-content: space-between;
@@ -71,23 +74,75 @@ div.row {
     background-color: #f9f9f9;
 }
 
-/* === nav bar style === */
-
-
+/* === Main ===*/
 main {
-      width: 60%;
-      dborder: 1px solid red;
-      padding: 22px;
-  }
-
-aside {
-    width: 40%;
-    dborder: 1px solid green;
+    flex: 65%;
+    padding: 1em 1.4em;
 }
 
-  main, aside {
-      float: left;
-  }
+.video-info {
+    color: #333333;
+    font-size: 0.95;
+    padding: 0.5em;
+    border-bottom: 1px solid #bbb;
+}
+
+.video-info button {
+    background-color: inherit;
+    color: #444;
+    display: inline-block;
+    border: none;
+    margin: 0;
+    cursor: pointer;
+    font-size: 0.7em;
+    text-align: center;
+}
+
+.video-feedback i {
+    font-size: 18px;
+}
+
+.author-img {
+    width: 40px;
+    height: 40px;
+    display: inline-block;
+    border-radius: 50%;
+}
+
+.subscribe-btn {
+    display: inline-block;
+    margin: 0;
+    background-color: #c00;
+    color: #fff;
+    text-align: center;
+    border: none;
+    cursor: pointer;
+    padding: 12px 14px;
+}
+
+
+.desc {
+    justify-content: space-between;
+    display: flex;
+    margin: 1em 0;
+    padding: 0 0 1em 0;
+    border-bottom: 1px solid #bbb;
+}
+
+.desc-col2 {
+    margin-right: 0;
+    margin-left: 1em;
+}
+
+.desc-header {
+    display: flex;
+    justify-content: space-between;
+}
+
+
+
+
+
 
 /* Misc*/
 ul {
