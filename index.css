@@ -138,6 +138,8 @@ main {
     justify-content: space-between;
 }
 
+main .material-icons {vertical-align:-30%}
+
 /* === Comment === */
 .comment {
     margin: 10px 0;
