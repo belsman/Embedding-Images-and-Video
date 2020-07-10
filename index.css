@@ -246,6 +246,14 @@ main .material-icons {vertical-align:-30%}
     color: #444;
 }
 
-.make-inline {
-    display: inline-block;
+.header-4, .header-5 {
+    font-weight: bold;
+}
+
+.header-4 {
+    font-size: 1.1em;
+}
+
+.header-5 {
+    font-size: 0.9rem;
 }
