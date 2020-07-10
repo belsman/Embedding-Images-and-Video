@@ -16,7 +16,6 @@ h1, h2, h3, h4, h5, p {
 
 /* === nav bar style === */
 
-
 nav {
     display: flex;
     justify-content: space-between;
@@ -139,28 +138,112 @@ main {
     justify-content: space-between;
 }
 
-
-
-
-
-
-/* Misc*/
-ul {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
+/* === Comment === */
+.comment {
+    margin: 10px 0;
+  } 
+  
+  .post-comment {
+      margin-top: 10px;
+  }
+  
+  .post-comment-col2 {
+      width: 100%;
+  }
+  
+  input[type=text] {
+      background-color: inherit;
+      border: none;
+      width: 100%;
+      border-bottom: 2px solid #ccc;
+      padding: 5px 10px;
+  }
+  
+  .flex {
+      display: flex;
+      align-items: center;
+  }
+  
+  .comment-feedback i {
+      font-size: 12px;
+      cursor: pointer;
+  }
+  
+  .comment-header {
+      margin: 0.3rem 0;
+  }
+  
+  /* === Side ==== */
+  aside {
+      flex: 35%;
+      margin-right: 1em;
+  }
+  
+  .section-header {
+      padding: 1em 0;
+      font-size: 1.1em;
+  }
+  .video-card {
+    display: flex;
+    border-bottom: 1px solid #ddd;
+    padding: 1em 0;
+  }
+  
+  .title {
+      display: block;
+      font-weight: 600;
+  }
+  
+  .video-card .author {
+      display: block;
+  }
+  
+  .video-card .info {
+      padding: 0 0.5em;
+  }
+  
+  .video-card .views {
+      color: #555;
+  }
+  
+  .video-card .author, .video-card .views {
+      font-size: 0.8rem;
+  }
+  
+/*  === MISC === */
+.profile-image {
+    display: inline-block;
+    width: 32px;
+    height: 32px;
+    background-color: #e8e8e8;
+    border-radius: 50%;
+    cursor: pointer;
+    margin-right: 1em;
 }
 
-/* Style up-next video */
-
-li.next-video {
-    border-bottom: 1px solid #eee;
+.flexify {
     display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.text {
     padding: 0.5em 0;
 }
 
-span.next-video-author, span.dates-and-views {
-    font-size: 75%;
-    color: #333;
-    
+.btn-link {
+    text-decoration: none;
+    border: none;
+    color: #333333;
+    font-size: 0.8em;
+    padding: 4px 8px;
+}
+
+.fade {
+    font-size: 0.8em;
+    color: #444;
+}
+
+.make-inline {
+    display: inline-block;
 }
