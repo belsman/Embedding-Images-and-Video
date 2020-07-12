@@ -6,7 +6,7 @@ YouTube Video Player Page clone.
 
 ![screenshot](./app_screenshot.png)
 
-This project is about cloning a YouTube video player page. This video player page is the page viewers watch a particular video and also get a list of recommended or "up next" video at the right aside of the screen.
+This project is about cloning a YouTube video player page. The Youtube video player page is the page viewers watch a particular video and also get a list of recommended or "up next" video at the right aside of the screen.
 
 ## Built With
 - HTML5
@@ -26,7 +26,7 @@ This project is about cloning a YouTube video player page. This video player pag
 
 ## Authors
 
-👤 **Author1**
+👤 **Bello Babakolo**
 
 - Github: [@belsman](https://github.com/belsman)
 - Twitter: [@d_belsman](https://twitter.com/d_belsman)
