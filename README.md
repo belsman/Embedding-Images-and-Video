@@ -28,9 +28,9 @@ This project is about cloning a YouTube video player page. This video player pag
 
 👤 **Author1**
 
-- Github: [@githubhandle](https://github.com/belsman)
-- Twitter: [@twitterhandle](https://twitter.com/d_belsman)
-- Linkedin: [linkedin](https://linkedin.com/bello-babakolo-b23b17145)
+- Github: [@belsman](https://github.com/belsman)
+- Twitter: [@d_belsman](https://twitter.com/d_belsman)
+- Linkedin: [Bello Babakolo](https://linkedin.com/bello-babakolo-b23b17145)
 
 👤 **Author2**
 
