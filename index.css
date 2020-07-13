@@ -20,7 +20,7 @@ p {
 }
 
 img {
-    border-style: none;
+  border-style: none;
 }
 
 .avatar {
@@ -29,7 +29,6 @@ img {
   border-radius: 50%;
   display: inline-block;
   cursor: pointer;
-  vertical-align: center;
 }
 
 .user-thumbnail {
