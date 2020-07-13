@@ -1,18 +1,18 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
-
-YouTube Video Player Page clone.
+# A YouTube Video Player Page
 
 ![screenshot](./app_screenshot.png)
 
-This project is about cloning a YouTube video player page. The Youtube video player page is the page viewers watch a particular video and also get a list of recommended or "up next" video at the right aside of the screen.
+This project consists of building an HTML document that matches the appearance of youtube video player page. The Youtube video player page is the page viewers watch a particular video and also get a list of recommended or "up next" video at the right aside of the screen.
+
+This is a collaborative project carried out by Tshepo Molefe and Bello Babakolo, as part of Embedding Images and Video project.
 
 ## Built With
 - HTML5
 - CSS3
-- frameworks,
-- technologies used
+- Google Icons
+- Youtube video and images sources
 
 ## Live Demo
 
