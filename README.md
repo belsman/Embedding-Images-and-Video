@@ -34,9 +34,9 @@ This project is about cloning a YouTube video player page. The Youtube video pla
 
 👤 **Author2**
 
-- Github: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- Linkedin: [linkedin](https://linkedin.com/linkedinhandle)
+- Github: [@TSHEPO-CLOUD](https://github.com/TSHEPO-CLOUD)
+- Twitter: [@tshepomolefem](https://twitter.com/tshepomolefem)
+- Linkedin: [tshepo molefe](https://linkedin.com/tshepo-molefe)
 
 ## 🤝 Contributing
 
