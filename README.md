@@ -32,7 +32,7 @@ This project is about cloning a YouTube video player page. The Youtube video pla
 - Twitter: [@d_belsman](https://twitter.com/d_belsman)
 - Linkedin: [Bello Babakolo](https://linkedin.com/bello-babakolo-b23b17145)
 
-👤 **Author2**
+👤 **Tshepo Molefe**
 
 - Github: [@TSHEPO-CLOUD](https://github.com/TSHEPO-CLOUD)
 - Twitter: [@tshepomolefem](https://twitter.com/tshepomolefem)
