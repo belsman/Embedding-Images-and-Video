@@ -2,8 +2,7 @@
 
 # A YouTube Video Player Page
 
-![screenshot](./images/app_screenshot.png)
-![screenshot](./images/app_screenshot2.png)
+<img src="./images/app_screenshot.png" alt="screenshot" />
 
 This project consists of building an HTML document that matches the appearance of youtube video player page. The Youtube video player page is the page viewers watch a particular video and also get a list of recommended or "up next" video at the right aside of the screen.
 
