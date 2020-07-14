@@ -18,7 +18,7 @@ This is a collaborative project carried out by Tshepo Molefe and Bello Babakolo,
 
 ## Live Demo
 
-[Live Demo Link](https://raw.githack.com/belsman/Embedding-Images-and-Video/clone-youtube/index.html)
+[Live Demo Link](https://raw.githack.com/belsman/Embedding-Images-and-Video/master/index.html)
 
 
 ## Getting Started
