@@ -2,6 +2,10 @@
 
 # A YouTube Video Player Page
 
+![Cloned Youtube player page](./images/app_screenshot.png)
+
+![Cloned Youtube player page](./images/app_screenshot2.png)
+
 This project consists of building an HTML document that matches the appearance of youtube video player page. The Youtube video player page is the page viewers watch a particular video and also get a list of recommended or "up next" video at the right aside of the screen.
 
 This is a collaborative project carried out by Tshepo Molefe and Bello Babakolo, as part of Embedding Images and Video project.
